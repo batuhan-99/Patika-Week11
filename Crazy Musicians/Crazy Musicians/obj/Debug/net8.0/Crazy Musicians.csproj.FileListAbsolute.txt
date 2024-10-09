@@ -1,0 +1,32 @@
+C:\Users\asus\Desktop\Crazy Musicians\Crazy Musicians\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\asus\Desktop\Crazy Musicians\Crazy Musicians\bin\Debug\net8.0\appsettings.json
+C:\Users\asus\Desktop\Crazy Musicians\Crazy Musicians\bin\Debug\net8.0\Crazy Musicians.exe
+C:\Users\asus\Desktop\Crazy Musicians\Crazy Musicians\bin\Debug\net8.0\Crazy Musicians.deps.json
+C:\Users\asus\Desktop\Crazy Musicians\Crazy Musicians\bin\Debug\net8.0\Crazy Musicians.runtimeconfig.json
+C:\Users\asus\Desktop\Crazy Musicians\Crazy Musicians\bin\Debug\net8.0\Crazy Musicians.dll
+C:\Users\asus\Desktop\Crazy Musicians\Crazy Musicians\bin\Debug\net8.0\Crazy Musicians.pdb
+C:\Users\asus\Desktop\Crazy Musicians\Crazy Musicians\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\asus\Desktop\Crazy Musicians\Crazy Musicians\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\asus\Desktop\Crazy Musicians\Crazy Musicians\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\asus\Desktop\Crazy Musicians\Crazy Musicians\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\asus\Desktop\Crazy Musicians\Crazy Musicians\obj\Debug\net8.0\Crazy Musicians.csproj.AssemblyReference.cache
+C:\Users\asus\Desktop\Crazy Musicians\Crazy Musicians\obj\Debug\net8.0\Crazy Musicians.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Desktop\Crazy Musicians\Crazy Musicians\obj\Debug\net8.0\Crazy Musicians.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\Crazy Musicians\Crazy Musicians\obj\Debug\net8.0\Crazy Musicians.AssemblyInfo.cs
+C:\Users\asus\Desktop\Crazy Musicians\Crazy Musicians\obj\Debug\net8.0\Crazy Musicians.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\Crazy Musicians\Crazy Musicians\obj\Debug\net8.0\Crazy Musicians.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\asus\Desktop\Crazy Musicians\Crazy Musicians\obj\Debug\net8.0\Crazy Musicians.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\asus\Desktop\Crazy Musicians\Crazy Musicians\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\asus\Desktop\Crazy Musicians\Crazy Musicians\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\asus\Desktop\Crazy Musicians\Crazy Musicians\obj\Debug\net8.0\staticwebassets\msbuild.Crazy Musicians.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\asus\Desktop\Crazy Musicians\Crazy Musicians\obj\Debug\net8.0\staticwebassets\msbuild.build.Crazy Musicians.props
+C:\Users\asus\Desktop\Crazy Musicians\Crazy Musicians\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Crazy Musicians.props
+C:\Users\asus\Desktop\Crazy Musicians\Crazy Musicians\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Crazy Musicians.props
+C:\Users\asus\Desktop\Crazy Musicians\Crazy Musicians\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\asus\Desktop\Crazy Musicians\Crazy Musicians\obj\Debug\net8.0\scopedcss\bundle\Crazy Musicians.styles.css
+C:\Users\asus\Desktop\Crazy Musicians\Crazy Musicians\obj\Debug\net8.0\Crazy Mu.97538F2A.Up2Date
+C:\Users\asus\Desktop\Crazy Musicians\Crazy Musicians\obj\Debug\net8.0\Crazy Musicians.dll
+C:\Users\asus\Desktop\Crazy Musicians\Crazy Musicians\obj\Debug\net8.0\refint\Crazy Musicians.dll
+C:\Users\asus\Desktop\Crazy Musicians\Crazy Musicians\obj\Debug\net8.0\Crazy Musicians.pdb
+C:\Users\asus\Desktop\Crazy Musicians\Crazy Musicians\obj\Debug\net8.0\Crazy Musicians.genruntimeconfig.cache
+C:\Users\asus\Desktop\Crazy Musicians\Crazy Musicians\obj\Debug\net8.0\ref\Crazy Musicians.dll
